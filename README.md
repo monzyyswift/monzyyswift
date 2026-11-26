@@ -10,7 +10,6 @@
 
 ## 🧑‍🚀 About Me
 
-```dart
 class Revand {
   final String name = "Revand Abdurrahman Khadafi";
   final String github = "monzyyswift";
@@ -31,6 +30,7 @@ class Revand {
     }
   }
 }
+
 🎯 Current Mission
 🎓 Student at SMK RPL (Kelas 12)
 💼 PKL Intern focusing on Mobile Development
@@ -56,10 +56,12 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monzyyswift&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monzyyswift&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+
 </div>
 🔥 Streak Stats
 <div align="center">
 GitHub Streak
+
 </div>
 🌌 Gravity Aesthetic Vibes
 <div align="center">
