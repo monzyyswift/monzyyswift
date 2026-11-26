@@ -37,21 +37,27 @@ class Revand {
 📱 Building apps with Flutter & Dart
 🔥 Learning k6 Stress Testing for performance
 🔄 Transitioned from Laravel/PHP (Kelas 11) to Mobile Dev
+
 🛠️ Tech Stack
+
 📱 Mobile (Current Focus)
 https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+
 ⚡ Testing & Performance
 https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white
 https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
+
 🌐 Web (Past Experience)
 https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+
 🧰 Tools
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+
 📊 GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monzyyswift&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
