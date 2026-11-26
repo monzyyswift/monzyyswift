@@ -71,7 +71,6 @@ GitHub Streak
 </div>
 🌌 Gravity Aesthetic Vibes
 <div align="center">
-plain
     ✦    .    ⁺   ˚    ✦    .    ⁺   ˚    ✦    .    ⁺   ˚
   .    ⁺   ˚    ✦    .    ⁺   ˚    ✦    .    ⁺   ˚    ✦
 ⁺   ˚    ✦    .    ⁺   ˚    ✦    .    ⁺   ˚    ✦    .
